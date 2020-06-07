@@ -1,4 +1,4 @@
-# kaggle_Regression_Model
+# Kaggle_Regression_Model
 
 ## E commerce Customers 
 
