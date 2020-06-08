@@ -3,7 +3,7 @@
 ## E commerce Customers 
 
 ### Introduction
-Dataset provided consists of 500 rows and 8 variables. It is data of customers who buys clothes online. Our main objective is to predict the Yearly amount spent by the customers. In my analysis I have tried to explored if data following all linear assumption and also tried fitting for different type of regularization like L1, L2 and elastic models. I have also builded model by feature selection based on p-value and feature importance by randomforest, where i have checked for overall impact on the model if any by dropping least important features. Overall R squared score for base model and selected feature model was 98% and RMSE score of 9.
+Dataset provided consists of 500 rows and 8 variables. It is data of customers who buys clothes online. Our main objective is to predict the Yearly amount spent by the customers. In my analysis I have tried to explore if data follows all linear assumption and also tried fitting for different type of regularization like L1, L2 and elastic models. I have also builded model by feature selection based on p-value and feature importance by randomforest, where i have checked for overall impact on the model if any by dropping least important features. Overall R squared score for base model and selected feature model was 98% and RMSE score of 9.
 
 ### Conclusion:
 1. Model with only 2 features i.e. "Length of Membership" and "Time on App" had RMSE score of 30.19 and variance can be explained 85%.
