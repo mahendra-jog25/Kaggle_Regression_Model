@@ -3,7 +3,7 @@
 ## E commerce Customers 
 
 ### Introduction
-Dataset provided consists of 500 rows and 8 variables. It is data of customers who buys clothes online. Our main objective is to predict the Yearly amount spent by the customers. Data consists of 500 rows and 8 variables.In my analysis I have tried to explored if data following all linear assumption and also tried fitting for different type of regularization like L1, L2 and elastic models. 
+Dataset provided consists of 500 rows and 8 variables. It is data of customers who buys clothes online. Our main objective is to predict the Yearly amount spent by the customers.In my analysis I have tried to explored if data following all linear assumption and also tried fitting for different type of regularization like L1, L2 and elastic models. 
 
 ### Conclusion:
 1. Model with only 2 features i.e. "Length of Membership" and "Time on App" had RMSE score of 30.19 and variance can be explained 85%.
